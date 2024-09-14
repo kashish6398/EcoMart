@@ -25,7 +25,7 @@ Installation
 3. cd EcoMart:  npm install
 4. Start the development server: npm start
 
-The app should now be running at http://localhost:3000.
+The app should now be running at [http://localhost:3000.](https://jsd9xg-3000.csb.app/)
 
 Project Structure
 EcoMart/
