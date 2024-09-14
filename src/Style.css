@@ -1,0 +1,53 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  padding-top: 56px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.py-5 {
+  padding-top: 3rem; 
+  padding-bottom: 3rem; 
+}
+
+.container-fluid {
+  padding: 0 15px;
+}
+
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1;
+}
+
+footer {
+  background-color: #f8f9fa;
+  padding: 20px;
+  text-align: center;
+  border-top: 1px solid #dee2e6;
+}

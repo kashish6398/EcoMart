@@ -1,0 +1,19 @@
+ .contact-us-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .contact-info {
+    flex: 1;
+    padding-right: 20px; 
+  }
+  
+  .contact-image img {
+    max-width: 100%;
+    height: auto; 
+    align-items: right;
+
+  }
+  

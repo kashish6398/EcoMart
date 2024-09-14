@@ -1,0 +1,16 @@
+
+.product-image {
+    height: 200px; 
+    width: 100%; 
+    object-fit: contain; 
+  }
+  
+  .product-image-large {
+    height: 400px; 
+    width: 100%; 
+    object-fit: contain; 
+  }
+  .action-button {
+    margin-right: 20px;
+  }
+    
